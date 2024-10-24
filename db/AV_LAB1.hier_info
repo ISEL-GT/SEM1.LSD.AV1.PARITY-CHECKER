@@ -1,0 +1,117 @@
+|AV_LAB1
+I0 => PZ4:inst_pz4_3.I0
+I1 => PZ4:inst_pz4_3.I1
+I2 => PZ4:inst_pz4_1.I0
+I3 => PZ4:inst_pz4_1.I1
+I4 => PZ4:inst_pz4_1.I2
+I5 => PZ4:inst_pz4_1.I3
+I6 => PZ4:inst_pz4_2.I0
+I7 => PZ4:inst_pz4_2.I1
+I8 => PZ4:inst_pz4_2.I2
+I9 => PZ4:inst_pz4_2.I3
+P << PZ4:inst_pz4_3.P
+Z << Z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|AV_LAB1|PZ4:inst_pz4_1
+I0 => minterm_1.IN0
+I0 => minterm_4.IN0
+I0 => minterm_8.IN1
+I0 => minterm_11.IN0
+I0 => minterm_13.IN0
+I0 => minterm_7.IN1
+I1 => minterm_1.IN1
+I1 => minterm_4.IN1
+I1 => minterm_7.IN0
+I1 => minterm_8.IN0
+I1 => minterm_13.IN1
+I1 => minterm_11.IN1
+I2 => minterm_1.IN1
+I2 => minterm_2.IN1
+I2 => minterm_4.IN1
+I2 => minterm_7.IN1
+I2 => minterm_8.IN1
+I2 => minterm_11.IN1
+I2 => minterm_14.IN1
+I2 => minterm_13.IN1
+I3 => minterm_1.IN1
+I3 => minterm_2.IN1
+I3 => minterm_4.IN1
+I3 => minterm_7.IN1
+I3 => minterm_8.IN1
+I3 => minterm_11.IN1
+I3 => minterm_13.IN1
+I3 => Z.IN1
+I3 => minterm_14.IN1
+P <= P.DB_MAX_OUTPUT_PORT_TYPE
+Z <= Z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|AV_LAB1|PZ4:inst_pz4_2
+I0 => minterm_1.IN0
+I0 => minterm_4.IN0
+I0 => minterm_8.IN1
+I0 => minterm_11.IN0
+I0 => minterm_13.IN0
+I0 => minterm_7.IN1
+I1 => minterm_1.IN1
+I1 => minterm_4.IN1
+I1 => minterm_7.IN0
+I1 => minterm_8.IN0
+I1 => minterm_13.IN1
+I1 => minterm_11.IN1
+I2 => minterm_1.IN1
+I2 => minterm_2.IN1
+I2 => minterm_4.IN1
+I2 => minterm_7.IN1
+I2 => minterm_8.IN1
+I2 => minterm_11.IN1
+I2 => minterm_14.IN1
+I2 => minterm_13.IN1
+I3 => minterm_1.IN1
+I3 => minterm_2.IN1
+I3 => minterm_4.IN1
+I3 => minterm_7.IN1
+I3 => minterm_8.IN1
+I3 => minterm_11.IN1
+I3 => minterm_13.IN1
+I3 => Z.IN1
+I3 => minterm_14.IN1
+P <= P.DB_MAX_OUTPUT_PORT_TYPE
+Z <= Z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|AV_LAB1|PZ4:inst_pz4_3
+I0 => minterm_1.IN0
+I0 => minterm_4.IN0
+I0 => minterm_8.IN1
+I0 => minterm_11.IN0
+I0 => minterm_13.IN0
+I0 => minterm_7.IN1
+I1 => minterm_1.IN1
+I1 => minterm_4.IN1
+I1 => minterm_7.IN0
+I1 => minterm_8.IN0
+I1 => minterm_13.IN1
+I1 => minterm_11.IN1
+I2 => minterm_1.IN1
+I2 => minterm_2.IN1
+I2 => minterm_4.IN1
+I2 => minterm_7.IN1
+I2 => minterm_8.IN1
+I2 => minterm_11.IN1
+I2 => minterm_14.IN1
+I2 => minterm_13.IN1
+I3 => minterm_1.IN1
+I3 => minterm_2.IN1
+I3 => minterm_4.IN1
+I3 => minterm_7.IN1
+I3 => minterm_8.IN1
+I3 => minterm_11.IN1
+I3 => minterm_13.IN1
+I3 => Z.IN1
+I3 => minterm_14.IN1
+P <= P.DB_MAX_OUTPUT_PORT_TYPE
+Z <= Z.DB_MAX_OUTPUT_PORT_TYPE
+
+
