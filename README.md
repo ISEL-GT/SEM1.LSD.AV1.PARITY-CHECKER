@@ -7,8 +7,8 @@
 
 ### Summary
 > Pretende-se implementar um circuito que verifique se o número de entradas ativas é Ímpar e se todas as entradas estão inativas (Zero).
-O diagrama do circuito (PZ10) é apresentado na Figura 1, sendo utilizadas 10 entradas, correspondentes a 10 botões da placa DE10-Lite e 2 saídas, 2 LEDs para indicação dos sinais de Paridade e Zero. Este circuito deve ser construído à custa de blocos funcionais que implementam um verificador de paridade e zero com 4 entradas cada, tal como apresentado na Figura 2.
-Quando o número de entradas I (10, 11, 12, 13, 14, 15, 16, 17, 18 e 19) ativas for impar, a saída P deve ficar ativa, do mesmo modo, quando o número de entradas for par, a saída deve ficar inativa. Relativamente à deteção de zero, a saída Z deve ficar ativa quando nenhuma das entradas estiver ativa e deve ficar inativa sempre que exista qualquer entrada ativa.
+O diagrama do circuito (PZ10) é apresentado na Figura 1, sendo utilizadas 10 entradas, correspondentes a 10 botões da placa DE10-Lite e 2 saídas, 2 LEDs para indicação dos sinais de Paridade e Zero. Este circuito deve ser construído à custa de blocos funcionais que implementam um verificador de paridade e zero com 4 entradas cada, tal como apresentado na Figura 2.  
+Quando o número de entradas I (10, 11, 12, 13, 14, 15, 16, 17, 18 e 19) ativas for impar, a saída P deve ficar ativa, do mesmo modo, quando o número de entradas for par, a saída deve ficar inativa. Relativamente à deteção de zero, a saída Z deve ficar ativa quando nenhuma das entradas estiver ativa e deve ficar inativa sempre que exista qualquer entrada ativa.  
 ###### You can find the project brief for this assignment in the [briefing](docs/assignment.pdf) file.
 
 
