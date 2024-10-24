@@ -3,7 +3,7 @@
 </p>
 
 
-## PROJECT NAME
+## AV LAB 1 - MUX Parity
 
 ### Summary
 > Pretende-se implementar um circuito que verifique se o número de entradas ativas é Ímpar e se todas as entradas estão inativas (Zero).
